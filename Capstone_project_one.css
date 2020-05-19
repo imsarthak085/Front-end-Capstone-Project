@@ -1,0 +1,35 @@
+body{
+  background-color: #1d1930;
+  color: white;
+  margin: 0px;
+}
+
+p{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+form{
+  font-size: 1.2em;
+}
+
+div{
+  text-align: center;
+}
+
+body{
+  border-bottom: 40px solid lightblue;
+  border-left: 40px solid lightblue;
+  border-right: 40px solid lightblue;
+}
+
+#button{
+  padding: 20px 10px;
+  font-size: 1.15em;
+  font-weight: bold;
+  border-radius: 20px;
+  color: black;
+  background-color: orange;
+  border: 1px solid white;
+  margin: 10px;
+}

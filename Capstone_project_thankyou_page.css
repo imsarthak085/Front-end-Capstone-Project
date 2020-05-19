@@ -1,0 +1,12 @@
+body{
+  color: white;
+  background-color: #1d1930;
+  text-align: center;
+}
+div{
+  border-bottom: 30px solid lightblue;
+  border-left: 30px solid lightblue;
+  border-right: 30px solid lightblue;
+  margin: 0px;
+  padding: 0px;
+}
